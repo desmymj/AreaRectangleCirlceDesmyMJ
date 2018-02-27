@@ -1,3 +1,5 @@
+
+
 -- Title: AreaOfRectangleAndCircle
 -- Name: Desmy Mj
 -- Course: ICS2O
@@ -52,3 +54,5 @@ areaText.y = display.contentHeight/2
 
 --set the colour of the newText
 areaText:setTextColor (1, 1, 1)
+
+--
